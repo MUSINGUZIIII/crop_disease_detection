@@ -5,7 +5,7 @@
 
 ## System Overview
 
-WE developed an AI-powered system that allows farmers to photograph a crop leaf and receive an instant disease diagnosis with treatment recommendations. It is built using a Convolutional Neural Network (CNN) with MobileNetV2 transfer learning, trained on the PlantVillage dataset that we got from kaggle.
+We developed an AI-powered system that allows farmers to photograph a crop leaf and receive an instant disease diagnosis with treatment recommendations. It is built using a Convolutional Neural Network (CNN) with MobileNetV2 transfer learning, trained on the PlantVillage dataset that we got from kaggle.
 
 **AI Approach:** Computer Vision — Transfer Learning (MobileNetV2 + Custom Classification Head)  
 **Language:** Python 3.10+  

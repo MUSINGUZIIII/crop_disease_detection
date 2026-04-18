@@ -1,6 +1,6 @@
 # Crop Disease Detection System
 **Musinguzi Dickson, Muhairwe Dominic, Kalyegira Emmanuel, Emelda Nakacwa**  
-*Group 2*
+
 ---
 
 ## System Overview

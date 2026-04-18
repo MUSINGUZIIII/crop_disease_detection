@@ -1,5 +1,5 @@
 # Crop Disease Detection System
-**Musinguzi Dickson, Muhairwe Dominic, Kalyegira Emmanuel, Emelda Nakacwa**  
+**By Musinguzi Dickson, Muhairwe Dominic, Kalyegira Emmanuel, Emelda Nakacwa**  
 
 ---
 
